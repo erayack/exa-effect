@@ -1,7 +1,9 @@
 /**
  * Main client for Websets API
  */
-import { Exa, ExaError, HttpStatusCode, WebsetHeadersLike } from "../index";
+import type { Exa } from "../client";
+import { ExaError, HttpStatusCode } from "../errors";
+import type { WebsetHeadersLike } from ".";
 import { PaginationParams, WebsetsBaseClient } from "./base";
 import { WebsetEnrichmentsClient } from "./enrichments";
 import { EventsClient } from "./events";

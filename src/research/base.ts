@@ -1,4 +1,4 @@
-import { Exa } from "../index";
+import type { Exa } from "../client";
 import { ListResearchRequest } from "./index";
 
 type QueryParams = Record<

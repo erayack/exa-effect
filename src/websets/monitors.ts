@@ -1,7 +1,7 @@
 /**
  * Client for managing Webset Monitors
  */
-import { Exa } from "..";
+import type { Exa } from "../client";
 import { PaginationParams, WebsetsBaseClient } from "./base";
 import {
   CreateMonitorParameters,

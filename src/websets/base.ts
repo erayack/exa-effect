@@ -1,7 +1,7 @@
 /**
  * Base client for Websets API
  */
-import { Exa } from "../index";
+import type { Exa } from "../client";
 
 /**
  * Type for API query parameters
