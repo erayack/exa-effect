@@ -65,7 +65,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exa-labs/exa-js.git"
+    "url": "git+https://github.com/erayack/exa-effect.git"
   },
   "keywords": [
     "exa",
@@ -80,7 +80,7 @@
   ],
   "author": "jeffzwang",
   "bugs": {
-    "url": "https://github.com/exa-labs/exa-js/issues"
+    "url": "https://github.com/erayack/exa-effect/issues"
   },
-  "homepage": "https://github.com/exa-labs/exa-js#readme"
+  "homepage": "https://github.com/erayack/exa-effect#readme"
 }

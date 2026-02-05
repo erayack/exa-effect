@@ -1,4 +1,4 @@
-# Exa Effect SDK
+# Effect wrapper for Exa SDK
 
 [![npm version](https://img.shields.io/npm/v/exa-effect.svg)](https://www.npmjs.com/package/exa-effect)
 
